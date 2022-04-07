@@ -1,11 +1,6 @@
-### Hi there 👋
-#### Welcome to my github profile
+![banner](https://wallpaperaccess.com/full/2488368.jpg)
 
 
-
-- 🔭 I’m currently working on university assigned projects and my own side projects, mainly web apps with React.
+- 🔭 I’m currently working on university assigned projects and my own side projects which are mainly web apps.
 - 🌱 I’m currently learning web development, machine learning and system architecture.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
