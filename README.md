@@ -1,4 +1,4 @@
-![banner]<p align="center"> <img src="https://wallpaperaccess.com/full/2488368.jpg" width="700" height="300" alt="banner"/></p>
+<p align="center"> <img src="https://wallpaperaccess.com/full/2488368.jpg" width="900" height="600" alt="banner"/></p>
 
 ## Who am i ?
 <br />
