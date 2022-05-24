@@ -3,7 +3,7 @@
 ## Who am i ?
 <br />
 
-#### I am a computer science student at Aristotle University of Thessaloniki.
+#### I am a computer science student at the Aristotle University of Thessaloniki.
 
 
 - 🔭 I’m currently working on university assigned projects and my own side projects which are mainly web apps.
