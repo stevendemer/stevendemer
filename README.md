@@ -3,12 +3,12 @@
 ## Who am i ?
 <br />
 
-#### I am a computer science student at the Aristotle University of Thessaloniki.
+#### I study Computer Science at the Aristotle University of Thessaloniki.
 
 
 - 🔭 I’m currently working on university assigned projects and my own side projects which are mainly web apps.
 - 🌱 I’m currently learning web development, machine learning and system architecture.
-- 🤝 Find me in:<br/>  <a href="https://www.linkedin.com/in/stefanos-demertzis-5931571a6/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Steven Demertzis | LinkedIn" width="21px"/></a>
+- 🤝 Find me in:<br/>  <a href="https://www.linkedin.com/in/stefanos-demertzis-5931571a6/"><img align="left" - src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Steven Demertzis | LinkedIn" width="21px"/></a>
 
 ### 💼 Skills:
 
