@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Steven</h1>
 <h3 align="center">A passionate web developer and CS undergrad at the Aristotle University of Thessaloniki</h3>
 
-- 🔭 I’m currently working on **my own side projects and some college asigned ones**
+- 🔭 Working on **my own side projects and some college asigned ones**
 
 - 🌱 I’m currently learning **NodeJS and React along with typescript**
 
