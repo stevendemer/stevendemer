@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Steven</h1>
-<h3 align="center">A passionate frontend developer and CS student at the Aristotle University of Thessaloniki</h3>
+<h3 align="center">A passionate web developer and CS undergrad at the Aristotle University of Thessaloniki</h3>
 
 - 🔭 I’m currently working on **my own side projects and some college asigned ones**
 
-- 🌱 I’m currently learning **Nextjs, Django and Golang**
+- 🌱 I’m currently learning **NodeJS and React along with typescript**
 
-- 💬 Ask me about **react, javascript, python**
+- 💬 Ask me about **React, JS/TS, C++**
 
 - 📫 How to reach me **stefanos.demer99@gmail.com**
 
