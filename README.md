@@ -1,14 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Steven</h1>
-<h3 align="center">A passionate web developer and CS undergrad at the Aristotle University of Thessaloniki</h3>
+<h3 align="center">Passionate full stack developer</h3>
 
-- 🔭 Working on **my own side projects and some college asigned ones**
+- 💬 Ask me about **React, Javascript and C**
 
-- 🌱 I’m currently learning **NodeJS and React along with typescript**
-
-- 💬 Ask me about **React, JS/TS, C++**
-
-- 📫 How to reach me **stefanos.demer99@gmail.com**
-
+- 📫 How to reach me **https://www.linkedin.com/in/steven-demertzis-5931571a6/**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/steven-demertzis-5931571a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-demertzis-5931571a6" height="30" width="40" /></a>
