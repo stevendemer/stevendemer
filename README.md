@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **React, Javascript and C**
 
-- 📫 How to reach me **https://www.linkedin.com/in/steven-demertzis-5931571a6/**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
