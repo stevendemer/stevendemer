@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Steven</h1>
-<h3 align="center">Passionate full stack developer</h3>
+<h1 align="center">Hello there, I'm Steven 😎</h1>
+<h3 align="center">Full stack developer</h3>
 
-- 💬 Ask me about **React, Javascript and C**
+- 💬 Ask me about **React, Typescript and Java**
 
   
 <h3 align="left">Connect with me:</h3>
