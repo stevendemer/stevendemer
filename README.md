@@ -1,7 +1,10 @@
 <h1 align="center">Hello there, I'm Steven 😎</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Full stack developer and avid gamer</h3>
 
+- 🚀 Keen on learning new technologies and expanding my toolkit
+- 🎮 Been playing games since 6 years old
 - 💬 Ask me about **React, Typescript and Java**
+
 
   
 <h3 align="left">Connect with me:</h3>
