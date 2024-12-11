@@ -17,5 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevendemer&show_icons=true&locale=en&layout=compact" alt="stevendemer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevendemer&" alt="stevendemer" /></p>
 
