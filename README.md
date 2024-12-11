@@ -3,7 +3,7 @@
 
 - 🚀 Keen on learning new technologies and expanding my toolkit
 - 🎮 Been playing games since 6 years old
-- 💬 Ask me about **React, Typescript and Java**
+- 💬 Ask me about **NextJS, Typescript and NestJS**
 
 
 ![Snake animation](https://raw.githubusercontent.com/stevendemer/stevendemer/output/github-contribution-grid-snake-dark.svg)
