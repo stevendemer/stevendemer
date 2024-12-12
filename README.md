@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Steven 😎</h1>
 <h3 align="center">Full stack developer and avid gamer</h3>
 
-- 🚀 Keen on learning new technologies and expanding my toolkit
+- 🚀 Keen on learning new tech and expanding my toolkit
 - 🎮 Been playing games since 6 years old
 - 💬 Ask me about **NextJS, Typescript and NestJS**
 
