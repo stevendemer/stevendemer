@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Steven 😎</h1>
-<h3 align="center">Full stack developer and avid gamer</h3>
+<h3 align="center">Full stack developer and gamer</h3>
 
 - 🚀 Keen on learning new tech and expanding my toolkit
 - 🎮 Been playing games since 6 years old
